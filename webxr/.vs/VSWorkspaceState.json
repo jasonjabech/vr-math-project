@@ -1,0 +1,12 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\src",
+    "\\src\\components",
+    "\\src\\components\\GraphComponent",
+    "\\src\\components\\GraphParameterUIComponent",
+    "\\src\\components\\GraphVariableUIComponent"
+  ],
+  "SelectedNode": "\\src\\components\\GraphComponent\\MathGraphShader.js",
+  "PreviewInSolutionExplorer": false
+}

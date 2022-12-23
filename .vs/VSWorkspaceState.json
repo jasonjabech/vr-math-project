@@ -1,0 +1,16 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\webxr",
+    "\\webxr\\src",
+    "\\webxr\\src\\components",
+    "\\webxr\\src\\components\\GraphComponent",
+    "\\webxr\\src\\components\\GraphParameterUIComponent",
+    "\\webxr\\src\\components\\GraphVariableUIComponent",
+    "\\webxr\\src\\components\\SliderComponent",
+    "\\webxr\\src\\components\\TextComponent",
+    "\\webxr\\src\\images"
+  ],
+  "SelectedNode": "\\webxr\\src\\components\\GraphComponent\\expression-to-glsl-string.js",
+  "PreviewInSolutionExplorer": false
+}
